@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naiara</h1>
-<h3 align="center">A data engineer wannabe</h3>
+<h3 align="center">Data Engineer</h3>
 
 - 🌱 I’m currently learning **Aws, Git, Terraform**
 
